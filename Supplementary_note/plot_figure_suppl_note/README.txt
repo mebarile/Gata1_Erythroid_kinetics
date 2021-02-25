@@ -1,0 +1,1 @@
+This folder plots the model for Smim1 in the supplement
