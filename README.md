@@ -1,4 +1,4 @@
-# Gata1_Erythroid_kinetic
+# Gata1_Erythroid_kinetics
 This repository shows the calculations to get the figures and tables of the paper:
 "Coordinated Changes in Gene Expression Kinetics Underlie both Mouse and Human Erythroid Maturation".
 
