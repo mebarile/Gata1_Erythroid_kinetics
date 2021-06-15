@@ -4,3 +4,5 @@ This repository shows the calculations to get the figures and tables of the pape
 
 Each Folder contains the codes to obtain the corresponding figure.
 
+DOI: 10.5281/zenodo.4954417
+
